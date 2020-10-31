@@ -1,4 +1,3 @@
-
 #discord library
 import discord
 from discord import *
